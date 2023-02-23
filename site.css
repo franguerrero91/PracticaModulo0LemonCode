@@ -5,6 +5,7 @@
     text-shadow: 10px;
 }
 
+
 .container{
     border: 1px solid #070606;
     border-radius: 3px;
@@ -45,6 +46,5 @@
 .number{
     font-weight: bold;
     font-size: 36px;
-    margin-right: 20%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
