@@ -2,6 +2,7 @@
     font-weight: bold;
     text-align: center;
     font-size: x-large;
+    text-shadow: 10px;
 }
 
 .container{
@@ -20,14 +21,13 @@
     max-width: 50%;
     width: 200px;
     height: auto;
-    padding-inline: 50px;
+    padding-inline: 10px;
 }
 
 .name{
     font-weight: bold;
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
     vertical-align: 200%;
     
 }
@@ -45,6 +45,6 @@
 .number{
     font-weight: bold;
     font-size: 36px;
-    vertical-align: middle;
+    margin-right: 20%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
